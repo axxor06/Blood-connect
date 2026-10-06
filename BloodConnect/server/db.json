@@ -1,0 +1,283 @@
+{
+  "users": [
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "B-",
+      "password": "Arjundhwani",
+      "id": 1
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "7902967717",
+      "bloodGroup": "B-",
+      "role": "donor",
+      "password": "Arjundhwani",
+      "id": 2
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkishnanps21@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "O+",
+      "role": "receiver",
+      "password": "arjun",
+      "id": 3
+    },
+    {
+      "fullName": "Sreekrishnan.p",
+      "email": "admin@college.edu",
+      "phone": "7306318663",
+      "bloodGroup": "O+",
+      "role": "donor",
+      "password": "Arjun",
+      "id": 4
+    },
+    {
+      "fullName": "Dhwani",
+      "email": "dhwani1@gmail.com",
+      "phone": "7878532212",
+      "bloodGroup": "B+",
+      "role": "donor",
+      "password": "Arjun",
+      "id": 5
+    },
+    {
+      "fullName": "Arjun krishnan.p.s",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "7902967717",
+      "bloodGroup": "O+",
+      "role": "donor",
+      "password": "Arjundhwani",
+      "id": 6
+    },
+    {
+      "fullName": "Anitha ",
+      "email": "arjunkishnanps21@gmail.com",
+      "phone": "7306318663",
+      "bloodGroup": "AB+",
+      "age": "19",
+      "gender": "Male",
+      "role": "donor",
+      "password": "1234567",
+      "id": 7
+    },
+    {
+      "fullName": "Dhwani",
+      "email": "dhwani11@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "B+",
+      "age": "19",
+      "gender": "Male",
+      "role": "receiver",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "7902967717",
+      "bloodGroup": "AB-",
+      "age": "22",
+      "gender": "Male",
+      "role": "donor",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "777777",
+      "bloodGroup": "B+",
+      "age": "19",
+      "gender": "Male",
+      "role": "donor",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps011@gmail.com",
+      "phone": "1111111111111111",
+      "bloodGroup": "A-",
+      "age": "22",
+      "gender": "Male",
+      "role": "receiver",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps2@gmail.com",
+      "phone": "2234323423",
+      "bloodGroup": "A+",
+      "age": "23",
+      "gender": "Male",
+      "role": "receiver",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "fullName": "Arjun",
+      "email": "arjunkishnanps21@gmail.com",
+      "phone": "7902967717",
+      "bloodGroup": "A+",
+      "age": "24",
+      "gender": "Male",
+      "role": "receiver",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "fullName": "athul krishnan",
+      "email": "arjunkishnanps3@gmail.com",
+      "phone": "7878532212",
+      "bloodGroup": "A+",
+      "age": "21",
+      "gender": "Female",
+      "role": "donor",
+      "password": "123",
+      "id": 15
+    },
+    {
+      "fullName": "Athul dev",
+      "email": "arjun121@gmail.com",
+      "phone": "909812312",
+      "bloodGroup": "O+",
+      "age": "21",
+      "gender": "Male",
+      "role": "receiver",
+      "password": "123",
+      "id": 16
+    },
+    {
+      "fullName": "Amal",
+      "email": "amal122@gmail.com",
+      "phone": "22222",
+      "bloodGroup": "O+",
+      "age": "21",
+      "gender": "Male",
+      "role": "donor",
+      "password": "123",
+      "id": 17
+    }
+  ],
+  "donors": [],
+  "receivers": [
+    {
+      "userId": 3,
+      "fullName": "Arjun",
+      "email": "arjunkishnanps21@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "O+",
+      "age": "20",
+      "gender": "Male",
+      "location": "Palakkad,kerala",
+      "address": "Parembile house peringode post ,Kongad ,palakkad",
+      "hospital": "blaaa",
+      "reason": "Emergency",
+      "notes": "  bb",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps6@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "B-",
+      "age": "19",
+      "gender": "Male",
+      "location": "Palakkad,kerala",
+      "address": "bhdfsjbfcsjd",
+      "hospital": "aaaa",
+      "id": 2
+    },
+    {
+      "userId": 8,
+      "fullName": "Dhwani",
+      "email": "dhwani11@gmail.com",
+      "phone": "9526767058",
+      "bloodGroup": "B+",
+      "age": "19",
+      "gender": "Male",
+      "location": "Palakkad,kerala",
+      "address": "Parembile house peringode post ,Kongad ,palakkad",
+      "hospital": "KLC HOSPITAL",
+      "id": 3
+    },
+    {
+      "userId": 11,
+      "fullName": "Arjun",
+      "email": "arjunkrishnanps011@gmail.com",
+      "phone": "1111111111111111",
+      "bloodGroup": "A-",
+      "age": "22",
+      "gender": "Male",
+      "location": "Bla ",
+      "address": "bccaldfa",
+      "hospital": "Bkaaaaa",
+      "id": 4
+    },
+    {
+      "userId": 14,
+      "fullName": "Arjun",
+      "email": "arjunkishnanps21@gmail.com",
+      "phone": "7902967717",
+      "bloodGroup": "A+",
+      "age": "24",
+      "gender": "Male",
+      "location": "Mangode",
+      "address": "Parembile house peringode post ,Kongad ,palakkad",
+      "hospital": "KLC HOSPITAL",
+      "id": 5
+    },
+    {
+      "userId": 16,
+      "fullName": "Athul",
+      "email": "arjun121@gmail.com",
+      "phone": "909812312",
+      "bloodGroup": "O+",
+      "age": "21",
+      "gender": "Male",
+      "location": "Bla ",
+      "address": "bccaldfa",
+      "hospital": "Bkaaaaa",
+      "id": 6
+    }
+  ],
+  "requests": [
+    {
+      "receiverId": 1,
+      "bloodGroup": "B-",
+      "unitsRequired": "11",
+      "hospital": "aaaa",
+      "location": "Palakkad,kerala",
+      "message": "null annh",
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "receiverId": 14,
+      "bloodGroup": "A+",
+      "unitsRequired": "1",
+      "hospital": "KLC HOSPITAL",
+      "location": "Mangode",
+      "message": "adafda",
+      "status": "pending",
+      "id": 3
+    },
+    {
+      "receiverId": 16,
+      "bloodGroup": "O+",
+      "unitsRequired": "1",
+      "hospital": "Bkaaaaa",
+      "location": "Bla ",
+      "message": "",
+      "status": "declined",
+      "id": 4,
+      "donorId": 17
+    }
+  ]
+}
